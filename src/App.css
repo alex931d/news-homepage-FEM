@@ -326,11 +326,6 @@ nav ul li a:hover {
   }
 }
 
-.banner {
-  animation: fade-in linear forwards;
-  animation-timeline: view(100px 400px);
-}
-
 @media only screen and (width <= 950px) {
   .wrapper {
     flex-direction: column;
